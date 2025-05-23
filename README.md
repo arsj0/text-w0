@@ -7,8 +7,8 @@
 - User can Upload audio file and obtain text result / srt file. 
 
 ## Quick Start
--
-
+- to build, put model to the resource folder.
+ 
 ### Requirements
 - Python `3.10`  
 - Whisper model: `[large-v3-turbo.pt]`
