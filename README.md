@@ -1,7 +1,19 @@
-transcription-w1
-This is a python GUI for Openai whisper. User can Upload audio file and obtain text result / srt file. 
+# transcription-w1  
+**Python GUI for OpenAI Whisper audio-to-text transcription**
+
+---
+
+## Features
+- User can Upload audio file and obtain text result / srt file. 
+
+## Quick Start
+-
+
+### Requirements
+- Python `3.10`  
+- Whisper model: `[large-v3-turbo.pt]`
+- CustomTkinter `5.2.2`
 
 
-version: python 3.10, large-v3-turbo.pt, customtkinter 5.2.2
 
 Made for study use.
